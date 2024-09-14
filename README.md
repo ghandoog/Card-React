@@ -1,8 +1,8 @@
-# React + Vite
+### Card-Preveiew
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Structure Files
+>src
+ - App.jsx :point_left:
+ - card.jsx :point_lef:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ <img width="462" alt="Screen Shot 2024-09-14 at 8 12 01 PM" src="https://github.com/user-attachments/assets/c37d5c19-26df-428e-b23b-6b0aaaf765ef">
